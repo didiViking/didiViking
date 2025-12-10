@@ -7,4 +7,5 @@
 
 ## 🌟 CNCF Contribution Card
 
-[![CNCF ContribCard](https://contribcard.cncf.io/didiViking.png)](https://contribcard.cncf.io/didiViking)
+Check my contributions at: https://contribcard.cncf.io/didiViking
+
