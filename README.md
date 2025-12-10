@@ -5,7 +5,5 @@
 
 ![DevStats Card](https://devstats.me/?username=didiViking)
 
-## 🌟 CNCF Contribution Card
-
-Check my contributions at: https://contribcard.cncf.io/didiViking
+[![CNCF ContribCard](https://img.shields.io/badge/ContribCard-View-blue?style=for-the-badge)](https://contribcard.cncf.io/didiViking)
 
