@@ -7,4 +7,4 @@
 
 [![CNCF ContribCard](https://img.shields.io/badge/ContribCard-View-blue?style=for-the-badge)](https://contribcard.cncf.io/didiViking)
 
-![KubeCon Speaker](https://img.shields.io/badge/KubeCon%20Speaker-CNCF%20Event-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![KubeCon EU 2026 Speaker](https://img.shields.io/badge/KubeCon%20EU%202026-Speaker-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
