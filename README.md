@@ -5,6 +5,8 @@
 
 ![DevStats Card](https://devstats.me/?username=didiViking)
 
+![Top Repo](https://img.shields.io/github/last-commit/didiViking/your-repo?style=for-the-badge)
+
 [![CNCF ContribCard](https://img.shields.io/badge/ContribCard-View-blue?style=for-the-badge)](https://contribcard.cncf.io/didiViking)
 
 ![KubeCon EU 2026 Speaker](https://img.shields.io/badge/KubeCon%20EU%202026-Speaker-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
