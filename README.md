@@ -2,6 +2,10 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=didiViking.didiViking)
 
+### Devstats score
+
+https://devstats.app/?username=didiViking&theme=light)](https://github.com/didiViking/devstats
+
 [![CNCF ContribCard](https://img.shields.io/badge/ContribCard-View-blue?style=for-the-badge)](https://contribcard.cncf.io/didiViking)
 
 ## 🎤 KubeCon + CloudNativeCon Europe 2026
