@@ -1,12 +1,8 @@
-### 🌈 Visitor Counter
-
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=didiViking.didiViking)
 
 ![DevStats Card](https://devstats.app/?username=didiViking&theme=light)
 
 [![CNCF ContribCard](https://img.shields.io/badge/ContribCard-View-blue?style=for-the-badge)](https://contribcard.cncf.io/didiViking)
-
-## 🎤 KubeCon + CloudNativeCon Europe 2026
 
 [![Platform Engineering Day](https://img.shields.io/badge/KubeCon%20EU%202026-Platform%20Engineering%20Day-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://youtu.be/dVCN3bwumTg?si=3tXQT3LENgB4UTlG)
 
