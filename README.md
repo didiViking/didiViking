@@ -13,3 +13,9 @@
 [![Neurodiversity Community Hub](https://img.shields.io/badge/KubeCon%20EU%202026-Neurodiversity%20Hub-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kccnceu2026.sched.com/event/2IWqL/neurodiversity-at-work-practical-tools-open-source-paths-and-inclusive-community-building)
 
 [![Sessionize](https://img.shields.io/badge/Sessionize-View%20My%20Talks-1AB394?style=for-the-badge)](https://sessionize.com/diana-todea/)
+
+<h2 align="center">🌍 didiViking Tour</h2>
+
+<p align="center">
+  <img src="./assets/didiviking_on_tour.png" alt="didiViking Tour – Upcoming Talks" width="900">
+</p>
